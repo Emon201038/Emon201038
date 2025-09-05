@@ -54,7 +54,7 @@ Hi, I am Emdadul Hoque Emon from Cumilla, Bangladesh. I bring hands-on experienc
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emon201038&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/Emon201038#js-contribution-activity)
 
-```yaml
+<!-- ```yaml
 name: Emdadul Hoque Emon
 located_in: Comilla, Bangladesh
 from: Comilla, Bangladesh
@@ -73,7 +73,7 @@ technical_background:
 currently_learning: ["Matchine Learing", "React Native"]
 will_learn: ["Blockchain (backend)"]
 hobbies: ["Football", "Cricket", "Competitive Gaming"]
-```
+``` -->
 
 <!--START_SECTION:waka-->
 
@@ -81,20 +81,6 @@ hobbies: ["Football", "Cricket", "Competitive Gaming"]
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.0%20million%20lines%20of%20code-blue)
 ![GitHub User's stars](https://img.shields.io/github/stars/emon201038)
-
-**🐱 My GitHub Data**
-
-> 📦 405.9 kB Used in GitHub's Storage
->
-> 🏆 838 Contributions in the Year 2025
->
-> 💼 Opted to Hire
->
-> 📜 26 Public Repositories
->
-> 🔑 21 Private Repositories
->
-> **I'm an Early 🐤**
 
 ```text
 🌞 Morning                911 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 %
