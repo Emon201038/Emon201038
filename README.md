@@ -42,26 +42,17 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## Rewards
-
-<p align="start">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=emon201038&theme=onedark&column=-1" />
-</p>
-
 ## Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Emon201038&theme=transparent)](https://git.io/streak-stats)
 
 ## About me
 
-- 👋 Hi, I’m Emdadul Hoque Emon
-- 👀 I’m interested in Web Design & Development
-- 💻 My expertise lies in the MERN stack - MongoDB, Express.js, React.js, Next.js and Node.js.
-- 💞️ I’m looking to collaborate on Web Design & Development
+Hi, I am Emdadul Hoque Emon from Cumilla, Bangladesh. I bring hands-on experience in frontend technologies such as React, Next.js, and Tailwind CSS, as well as backend development with Node.js, Express.js, MongoDB, and Mongoose. Additionally, I am expanding my expertise into GraphQL, Prisma, and TypeScript, which allows me to architect modern, secure, and high-performance applications. I also have knowledge of authentication, state management (Redux/RTK Query), API integration, and real-time features using WebSocket/Socket.IO.
 
 ## Activity Graph
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emon201038&theme=github-dark-dimmed&custom_title=Emon%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emon201038&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/Emon201038#js-contribution-activity)
 
 ```yaml
 name: Emdadul Hoque Emon
