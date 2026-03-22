@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Emon201038](https://socialify.git.ci/Emon201038/Emon201038/image?custom_language=Node.js&custom_name=Emon&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fimg.icons8.com%2Ffluency-systems-filled%2F48%2FFFFFFF%2Fnextjs.png&name=1&pattern=Circuit+Board&stargazers=1&theme=Auto)
+![Emon201038](https://socialify.git.ci/emdadul-hoque-emon/emdadul-hoque-emon/image?custom_language=Node.js&custom_name=Emon&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fimg.icons8.com%2Ffluency-systems-filled%2F48%2FFFFFFF%2Fnextjs.png&name=1&pattern=Circuit+Board&stargazers=1&theme=Auto)
 
 </p>
 
@@ -44,7 +44,7 @@
 
 ## Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Emon201038&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emdadul-hoque-emon&theme=transparent)](https://git.io/streak-stats)
 
 ## About me
 
@@ -52,7 +52,7 @@ Hi, I am Emdadul Hoque Emon from Cumilla, Bangladesh. I bring hands-on experienc
 
 ## Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emon201038&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/Emon201038#js-contribution-activity)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emdadul-hoque-emon&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/Emon201038#js-contribution-activity)
 
 <!-- ```yaml
 name: Emdadul Hoque Emon
